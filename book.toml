@@ -5,4 +5,4 @@ src = "src"
 title = "BlueprintDiagram"
 
 [preprocessor.plantuml]
-plantuml-cmd = "plantuml"
+plantuml-cmd = "http://localhost:8080"
