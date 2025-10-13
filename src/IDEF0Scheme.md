@@ -2,6 +2,7 @@
 hier zal een variatie van het idef0 schema worden weergegeven. voor de normale versie, zie de teams map -> documentatie -> IDEF0 Diagram.
 
 eerst een overzicht:
+
 ```plantuml
 @startuml
 
@@ -25,3 +26,12 @@ A7 --> [*]
 ```
 
 dan zal A1 t/m A7 worden weergegeven:
+
+```
+@startuml
+[*] --> tandwiel detecteren
+
+state tandwiel detecteren{
+    
+}
+tandwiel detecteren --> [*]
