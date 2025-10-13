@@ -2,7 +2,7 @@
 hier zal een variatie van het idef0 schema worden weergegeven. voor de normale versie, zie de teams map -> documentatie -> IDEF0 Diagram.
 
 eerst een overzicht:
-```plantuml
+``` plantuml
 @startuml
 
 [*] -> A1
