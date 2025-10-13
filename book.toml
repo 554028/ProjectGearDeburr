@@ -3,3 +3,6 @@ authors = ["549116"]
 language = "en"
 src = "src"
 title = "BlueprintDiagram"
+
+[preprocessor.plantuml]
+plantuml-cmd = "plantuml"
