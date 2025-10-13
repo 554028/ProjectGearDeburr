@@ -35,3 +35,72 @@ state tandwielDetecteren{
 
 }
 tandwielDetecteren -r-> [*]
+@enduml
+```
+
+A2:
+
+```plantuml
+@startuml
+[*] -r-> tandwiel
+state tandwiel{
+
+}
+tandwiel -r-> [*]
+@enduml
+```
+A3:
+
+```plantuml
+@startuml
+[*] -r-> tandwiel
+state tandwiel{
+
+}
+tandwiel -r-> [*]
+@enduml
+```
+A4:
+
+```plantuml
+@startuml
+[*] -r-> tandwiel
+state tandwiel{
+
+}
+tandwiel -r-> [*]
+@enduml
+```
+A5:
+
+```plantuml
+@startuml
+[*] -r-> tandwiel
+state tandwiel{
+
+}
+tandwiel -r-> [*]
+@enduml
+```
+A6:
+
+```plantuml
+@startuml
+[*] -r-> tandwiel
+state tandwiel{
+
+}
+tandwiel -r-> [*]
+@enduml
+```
+A7:
+
+```plantuml
+@startuml
+[*] -r-> tandwiel
+state tandwiel{
+
+}
+tandwiel -r-> [*]
+@enduml
+```
