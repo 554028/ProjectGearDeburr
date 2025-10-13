@@ -29,9 +29,9 @@ dan zal A1 t/m A7 worden weergegeven:
 
 ```plantuml
 @startuml
-[*] --> 'tandwiel detecteren'
+[*] -r-> tandwielDetecteren
 
-state 'tandwiel detecteren'{
+state tandwielDetecteren{
 
 }
-tandwiel detecteren --> [*]
+tandwielDetecteren -r-> [*]
