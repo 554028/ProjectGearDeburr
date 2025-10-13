@@ -27,11 +27,11 @@ A7 --> [*]
 
 dan zal A1 t/m A7 worden weergegeven:
 
-```
+```plantuml
 @startuml
-[*] --> tandwiel detecteren
+[*] --> 'tandwiel detecteren'
 
-state tandwiel detecteren{
-    
+state 'tandwiel detecteren'{
+
 }
 tandwiel detecteren --> [*]
