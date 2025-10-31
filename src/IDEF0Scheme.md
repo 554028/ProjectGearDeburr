@@ -15,7 +15,7 @@ A3 : tandwiel schoonmaken
 A3 --> A4
 A4 : tandwiel op ontbraammachine positioneren
 A4 --> A5
-A5 : tandwiel klemmen
+A5 : tandwiel fixeren
 A5 --> A6
 A6 : tandwiel ontbramen
 A6 --> A7
